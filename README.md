@@ -1,5 +1,9 @@
-### Hi there 👋
-
+### Hi everyone 👋
+I'm Duxcoder ;)
+![cat](https://github.com/Duxcoder/Duxcoder/assets/68332435/3e01bb61-d116-445c-bb55-505717b2a164)
+### :hammer_and_wrench: Languages and Tools :
+<img width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" /><img width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" /><img width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+          
 <!--
 **Duxcoder/Duxcoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
