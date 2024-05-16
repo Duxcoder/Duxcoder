@@ -10,6 +10,7 @@ I'm Duxcoder ;) <br>
 | ----------- | ----------- |
 | [DuxBuy](https://github.com/Duxcoder/DuxBuy) (Vue3) | [link](https://duxcoder.github.io/DuxBuy/) |
 | [Minesweeper](https://github.com/Duxcoder/minesweeper) (JS) | [link](https://duxcoder.github.io/minesweeper/)   |
+| [Momentum](https://github.com/Duxcoder/momentum) (JS) | [link](https://duxcoder.github.io/momentum/) |
 | [Shelter](https://github.com/Duxcoder/shelter) (HTML, PP)  | [link](https://duxcoder.github.io/shelter/)  |
 | [Plants](https://github.com/Duxcoder/plants) (HTML, PP)  | [link](https://duxcoder.github.io/plants/) |
 | [Virtual Keyboard](https://github.com/Duxcoder/virtual-keyboard/tree/development) (JS)| [link](https://duxcoder.github.io/virtual-keyboard/)
